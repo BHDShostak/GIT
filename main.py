@@ -1,2 +1,2 @@
-txt = intput ()
+txt = input ()
 print ( 'additional files' + txt)
